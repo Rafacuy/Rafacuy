@@ -1,30 +1,37 @@
-# Hi, I'm Rafacuy 👋
+# 👋 Hi, I'm Arash!
 
-**Gw Rafacuy, Dev** yang lagi fokus belajar dan berkembang bareng Node.js & Python.  
-Gw juga sering belajar Cyber Security. Deface, SQLi, dirb, nmap udah gw kuasai.
+## About Me
 
-### 🚀 My Project
-- [**alya-chatbot**](https://github.com/Rafacuy/alya-chatbot)  
-  Bot Telegram berbasis AI menggunakan NodeJS.
-- [**XScanner**](https://github.com/Rafacuy/XScanner)
-  Tool berbasis Python untuk mencari Vulnerability dari suatu Web.
-- [**ASM**](https://github.com/Rafacuy/arash-system-monitor)
-   Python GUI-Based untuk mengecek penggunaan CPU, RAM, Network, dll secara real-time dan ringan.  
+* 🧠 A student who doesn't just learn from books, but also from bugs.
+* 💻 Actively tinkering with AI, cybersec, and scripting tools.
+* 🎯 Has a personal mission: to create useful tools, not just GitHub showcases.
+* 🧩 Currently studying geometry, AI theorem proving, and public speaking.
+* 🏕️ Will be moving to a boarding school soon (in 1.5 years — the countdown continues).
+* 🧠 A severe overthinker, but knows how to fight through creativity.
 
-### 🔗 Find Me
-- 🎵 TikTok: [@rafardhancuy](https://tiktok.com/@rafardhancuy)
-
-
-### 🛠️ Tools & Tech (yang sering gue pake)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-
-### 📊 GitHub Stats
-![Rafacuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafacuy&show_icons=true&theme=tokyonight)
-Ramein dong cuy, wkwkw
 ---
 
-Oke, makasih perhatiannya!
 
+## 📚 I'm Currently Learning
+
+* 🔐 Pentesting & Cybersecurity
+* 📐 Geometry & Formal Proofs
+* Public Speaking (so i can teach and stand-up at the same time 😏)
+* 🎧 Voice Tech & AI
+
+---
+
+## Tech & Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## 📬 Wanna Chat?
+
+Feel free to reach me via [Telegram](https://t.me/ArashCuy) or leave issues/PRs in the repo!
